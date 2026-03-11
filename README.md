@@ -1,4 +1,4 @@
-![Nafidz](/img/github-header-banner.png)
+![Nafidz D.M](/img/github-header-banner.png)
 
 - 👀 I’m interested in **Data mining, AI and Software Engineering**
 - 🌱 I’m currently learning **ML, Deep Learning and AI**
