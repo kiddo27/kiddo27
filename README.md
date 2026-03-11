@@ -16,7 +16,7 @@
 ![https://www.linkedin.com/in/nafidzmaulana/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
-#### stats
+#### 📊 stats
 
 ![kiddo27](https://github-readme-stats.vercel.app/api?username=kiddo27&theme=vision-friendly-dark&show_icons=true)
 
@@ -33,11 +33,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Napidz">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Napidz&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31bmwk5li6efp7a7huvvavktna4e)
 
 ###
 
