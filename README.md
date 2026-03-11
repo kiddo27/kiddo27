@@ -7,8 +7,7 @@
 #### 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,sklearn,pytorch,tensorflow,c,cpp,html,css,bootstrap&figma&theme=dark)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 
 #### 🌐 Connect with me
 
