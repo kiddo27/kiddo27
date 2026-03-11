@@ -1,6 +1,5 @@
-## Hello Guys👋!! I'm Nafidz..
-
 ![Nafidz](/img/github-header-banner.png)
+
 - 👀 I’m interested in **Data mining, AI and Software Engineering**
 - 🌱 I’m currently learning **ML, Deep Learning and AI**
 - ⚡ Fun fact: **I love pokemon 😁**
